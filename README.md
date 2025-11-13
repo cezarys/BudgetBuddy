@@ -59,12 +59,6 @@ BudgetBuddy/
 
 The backend seeds a small demo dataset on first run. Use **POST /api/reset** to restore demo content.
 
-## Project preview
-
-![screenshot](screenshot.png)
-
-> Replace `screenshot.png` with a real screenshot if you like — the placeholder is there so GitHub renders it nicely.
-
 ## Future improvements
 
 - Charts (monthly breakdown)
